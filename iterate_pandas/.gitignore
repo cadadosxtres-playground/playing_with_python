@@ -1,0 +1,5 @@
+### Ignoring python venv
+.venv
+
+### Igonoring jupyter environment
+.ipynb_checkpoints
